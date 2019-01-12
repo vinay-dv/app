@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:fillColor">
+        <gradient
+            android:endColor="#ff4e4e"
+            android:endX="10"
+            android:endY="2"
+            android:angle="45"
+            android:startColor="#ffa83e"
+            android:startX="20"
+            android:startY="3"
+            android:type="linear" />
+    </aapt:attr>
+</selector>
